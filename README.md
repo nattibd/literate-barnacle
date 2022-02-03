@@ -1,3 +1,1 @@
 # literate-barnacle
-
-$`
